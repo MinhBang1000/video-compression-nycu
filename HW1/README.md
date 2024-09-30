@@ -34,7 +34,7 @@ This project processes an image to extract its RGB, YUV, and CbCr channels using
 1. **Place your image**: Ensure you have an image named `lena.png` in the same directory as the script.
 
 2. **Run the script**:
-   Execute the script using Python. This will read the image, process it, and save the resulting channel images in the `images` directory.
+   Execute the script using Python. This will read the image, process it, and save the resulting channel images in the `images` directory (Create `images` manually).
    
    ```bash
    python <script-name>.py
