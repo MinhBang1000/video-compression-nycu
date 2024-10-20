@@ -1,0 +1,18 @@
+Requirements:
+Overview of Image Compression Using DCT
+1. 2D-DCT
+    - Convert to greyscale image --> Using Y formula
+    - Visualize the DCT coefficients in Log Domain 
+        -- Implement the 2D-DCT
+        -- Log Domain
+2. 2D-IDCT
+    - Implement IDCT
+    - Reconstruct the greyscale image
+3. PSNR
+    - Implement the PSNR
+    - Measure the quality of reconstructed image
+4. Two 1D-DCT
+    - Implement two 1D-DCT 
+    - Collect the DCT coefficients
+5. Runtime
+    - Compare both of them
