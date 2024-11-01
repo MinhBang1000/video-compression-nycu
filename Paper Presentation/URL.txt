@@ -1,0 +1,8 @@
+Group:
+https://docs.google.com/spreadsheets/d/1tEXh0RE2g5JnA_c2G5v8C3wN5dqUMR_OhOeC0oc8E4E/edit?gid=0#gid=0
+
+Topic:
+Full Resolution Image Compression with Recurrent Neural Networks
+
+Please group up to 4 people and fill in the group information here.
+Paper presentation (12/09 or upload videos): Please pick one of the following papers (or more recent papers related to image/video compression) and prepare a 10-minute presentation (in Chinese or English).
